@@ -1,42 +1,12 @@
-<div align="center">
-
 # 김정욱 (JeongUk Kim)
 
-### 🎯 Data Analyst & AI Engineer
+데이터 분석과 AI 엔지니어링을 공부하고 있습니다.  
+홍익대학교 산업데이터공학과를 졸업했고, 현재는 KT 에이블스쿨 9기 AI 트랙에서 실무에 가까운 프로젝트들을 경험하며 역량을 키우고 있습니다.
 
-> **데이터 기반의 의사결정을 지원하고, LangChain 기반 지능형 에이전트로 실제 문제를 해결하는 엔지니어입니다.**
-> Python과 SQL을 활용한 데이터 분석부터 RAG 시스템 구축까지, 대학교, KT 에이블스쿨 AI 트랙에서 쌓은 실전 경험을 바탕으로
-> **분석적 사고 · 탐구심 · 커뮤니케이션** 역량을 갖춘 분석가·AI 개발자를 지향합니다.
+숫자 속에서 의미를 찾는 과정을 좋아합니다. 단순히 모델을 돌리는 것보다, 왜 이 데이터가 이런 패턴을 보이는지 — 그 원인을 끝까지 파고드는 편입니다.  
+분석 결과가 실제 의사결정에 쓰일 수 있도록 정리하고 전달하는 것도 중요하게 생각합니다.
 
-<br>
-
-[![Tistory Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-FF5A1A?style=flat-square&logo=tistory&logoColor=white)](https://jwkim0826.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-jeongwook%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeongwook@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-JeongUk00-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeongUk00)
-
-</div>
-
----
-
-## 👤 About Me
-
-| 항목 | 내용 |
-|------|------|
-| 🎓 학력 | 홍익대학교 산업데이터공학과 졸업 |
-| 📡 활동 | KT 에이블스쿨 9기 AI 트랙 교육 |
-| 📜 자격 | 정보처리기사 · ADsP · SQLD |
-| 📝 블로그 | AI 기술 및 데이터 분석 기술 [티스토리](https://jwkim0826.tistory.com/)에 기록 중 |
-| 📬 연락 | jeongwook@gmail.com |
-
----
-
-## 💡 핵심 역량 (Core Competencies)
-
-| 역량 | 설명 |
-|------|------|
-| 🔍 **탐구심** | 데이터 속 패턴과 원인을 끝까지 파고드는 분석 능력 |
-| 🎯 **데이터 기반 사고** | 직관이 아닌 데이터로 문제를 정의하고 의사결정을 지원 |
-| 🤝 **커뮤니케이션** | 분석 결과를 이해하기 쉽게 시각화하고 인사이트를 전달 |
+📬 jeongwook@gmail.com · [GitHub](https://github.com/JeongUk00) · [Tech Blog](https://jwkim0826.tistory.com/)
 
 ---
 
@@ -76,40 +46,56 @@
 
 ---
 
-## 💻 Projects
+## 프로젝트
 
-| # | 프로젝트명 | 핵심 기술 | 나의 역할 | 성과 | 링크 |
-|---|-----------|----------|---------|------|------|
-| 1 | ✈️ **항공기 고객 만족도 예측** | Python · XGBoost · DNN · EDA | 데이터 전처리, 모델링, 성능 최적화 | 정확도 **92%** 달성 / 핵심 변수 도출 | [→ repo](https://github.com/JeongUk00/airline-satisfaction) |
-| 2 | 🎓 **LangChain 기반 AI 강사 Agent** | LangChain · RAG · OpenAI API | RAG 시스템 설계, 프롬프트 엔지니어링 | 할루시네이션 **20%** 감소 | [→ repo](https://github.com/JeongUk00/ai-tutor-agent) |
-| 3 | 🛍️ **상품 리뷰 분석 Agent** | LangChain · BeautifulSoup · 감성분석 | 크롤링, 감성 분석, 요약 파이프라인 구축 | 리뷰 분석 시간 **70%** 단축 | [→ repo](https://github.com/JeongUk00/review-analysis-agent) |
+### ✈️ 항공기 고객 만족도 예측
+`Python · XGBoost · DNN`
 
----
+항공사 고객 데이터를 보면서 "만족도를 단순 설문 평균으로 예측하는 게 맞나?"라는 의문에서 시작했습니다.  
+EDA를 통해 좌석 편의성·기내 서비스 같은 핵심 변수를 추려내고, XGBoost와 DNN을 비교 실험해 **정확도 92%**를 달성했습니다.  
+데이터 전처리부터 모델 선택 근거까지 전 과정을 직접 담당했습니다.
 
-## 🏆 Certifications & Education
-
-- 📜 **정보처리기사**
-- 📜 **데이터 분석 준전문가 (ADsP)**
-- 📜 **SQLD**
-- 🎓 **KT 에이블스쿨 9기 AI 트랙** — 2026.04 ~ 진행 중
-- 🏫 **홍익대학교 산업데이터공학과** — 졸업
+→ [repo](https://github.com/JeongUk00/airline-satisfaction)
 
 ---
 
-## ✍️ Recent Blog Posts
+### 🎓 LangChain 기반 AI 강사 Agent
+`LangChain · RAG · OpenAI API`
 
-> 📌 학습 과정을 기록하고 있습니다. → [jwkim0826.tistory.com](https://jwkim0826.tistory.com/)
+학습 중 "LLM이 내가 배우는 교재 내용을 틀리게 답한다"는 경험에서 출발했습니다.  
+RAG 시스템을 직접 설계해 강의 자료를 벡터 DB에 인덱싱하고, 프롬프트 엔지니어링을 반복 실험하며 **할루시네이션을 20% 감소**시켰습니다.  
+에이블스쿨 교육 과정에서 얻은 LangChain 이해를 실제 시스템 구축으로 연결한 프로젝트입니다.
 
-<!-- 블로그 포스팅이 쌓이면 아래에 직접 링크 추가 -->
-<!-- - [포스팅 제목](링크) -->
-<!-- - [포스팅 제목](링크) -->
+→ [repo](https://github.com/JeongUk00/ai-tutor-agent)
 
 ---
 
-<div align="center">
+### 🛍️ 상품 리뷰 분석 Agent
+`LangChain · BeautifulSoup · 감성분석`
 
-**"데이터에서 인사이트를 추출하고, LLM으로 문제를 해결합니다."**
+리뷰 수천 개를 사람이 직접 읽고 판단하는 방식의 비효율을 해결하고 싶었습니다.  
+크롤링 → 감성 분석 → 요약까지 이어지는 파이프라인을 구축해 **분석 시간을 70% 단축**했습니다.  
+단순 분류가 아니라 "어떤 키워드가 부정 리뷰에 집중되는지"까지 인사이트를 도출하는 데 집중했습니다.
 
-📬 협업 및 문의: [jeongwook@gmail.com](mailto:jeongwook@gmail.com)
+→ [repo](https://github.com/JeongUk00/review-analysis-agent)
 
-</div>
+---
+
+## 자격 및 교육
+
+- 정보처리기사
+- 데이터분석 준전문가 (ADsP)
+- SQLD
+- KT 에이블스쿨 9기 AI 트랙 — 2026.04 ~ 진행 중
+- 홍익대학교 산업데이터공학과 졸업
+
+---
+
+## 블로그
+
+배운 것을 정리하고 기록하는 습관을 들이고 있습니다.  
+AI 기술과 데이터 분석 관련 내용을 꾸준히 올리고 있습니다. → [jwkim0826.tistory.com](https://jwkim0826.tistory.com/)
+
+---
+
+*"데이터에서 인사이트를, 그리고 그 인사이트가 실제로 쓰이도록."*
