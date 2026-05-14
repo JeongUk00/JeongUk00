@@ -1,12 +1,18 @@
 # 김정욱 (JeongUk Kim)
 
-데이터 분석과 AI 엔지니어링을 공부하고 있습니다.  
-홍익대학교 산업데이터공학과를 졸업했고, 현재는 KT 에이블스쿨 9기 AI 트랙에서 실무에 가까운 프로젝트들을 경험하며 역량을 키우고 있습니다.
+<img src="[your-profile-image.jpg](https://github.com/JeongUk00/JeongUk00/issues/1#issue-4446663821)" width="180" alt="프로필 사진"/>
 
-숫자 속에서 의미를 찾는 과정을 좋아합니다. 단순히 모델을 돌리는 것보다, 왜 이 데이터가 이런 패턴을 보이는지 — 그 원인을 끝까지 파고드는 편입니다.  
-분석 결과가 실제 의사결정에 쓰일 수 있도록 정리하고 전달하는 것도 중요하게 생각합니다.
+## 👤 About Me
+---
 
-📬 jeongwook@gmail.com · [GitHub](https://github.com/JeongUk00) · [Tech Blog](https://jwkim0826.tistory.com/)
+- 학력 | 홍익대학교 산업데이터공학과 졸업
+- 자격 및 활동 | 정보처리기사 · ADsP (데이터 분석 준전문가) · SQLD · KT Aivle School AI Track
+- Email | jeongwook@gmail.com
+- Blog | [기술 블로그](https://jwkim0826.tistory.com/)
+- GitHub | [GitHub](https://github.com/JeongUk00)
+
+> 숫자 속에서 의미를 찾는 과정을 좋아합니다. 단순히 모델을 돌리는 것보다, 왜 이 데이터가 이런 패턴을 보이는지 — 그 원인을 끝까지 파고드는 편입니다.  
+> 분석 결과가 실제 의사결정에 쓰일 수 있도록 정리하고 전달하는 것도 중요하게 생각합니다.
 
 ---
 
