@@ -1,6 +1,6 @@
 # 김정욱 (JeongUk Kim)
 
-<img src="https://github.com/user-attachments/assets/https://github.com/JeongUk00/JeongUk00/issues/1#issue-4446663821" width="180"/>
+<img src="https://github.com/user-attachments/assets/de0f2004-304e-4cca-8950-eedfea8b5e90" width="180"/>
 
 ## 👤 About Me
 ---
