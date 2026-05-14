@@ -5,12 +5,11 @@
 ### 🎯 Data Analyst & AI Engineer
 
 > **데이터 기반의 의사결정을 지원하고, LangChain 기반 지능형 에이전트로 실제 문제를 해결하는 엔지니어입니다.**
-> Python과 SQL을 활용한 데이터 분석부터 RAG 시스템 구축까지, 에이블스쿨 AI 트랙에서 쌓은 실전 경험을 바탕으로
+> Python과 SQL을 활용한 데이터 분석부터 RAG 시스템 구축까지, 대학교, KT 에이블스쿨 AI 트랙에서 쌓은 실전 경험을 바탕으로
 > **분석적 사고 · 탐구심 · 커뮤니케이션** 역량을 갖춘 분석가·AI 개발자를 지향합니다.
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongUk00&count_bg=%230969DA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Tistory Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-FF5A1A?style=flat-square&logo=tistory&logoColor=white)](https://jwkim0826.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-jeongwook%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeongwook@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JeongUk00-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeongUk00)
@@ -25,8 +24,8 @@
 |------|------|
 | 🎓 학력 | 홍익대학교 산업데이터공학과 졸업 |
 | 📡 활동 | KT 에이블스쿨 9기 AI 트랙 교육생 |
-| 📜 자격 | 정보처리기사 (실기 합격 대기 중) · ADsP (데이터 분석 준전문가) |
-| 📝 블로그 | AI 기술 및 트러블슈팅 과정을 [티스토리](https://jwkim0826.tistory.com/)에 꾸준히 기록 중 |
+| 📜 자격 | 정보처리기사 · ADsP · SQLD |
+| 📝 블로그 | AI 기술 및 데이터 분석 기술 [티스토리](https://jwkim0826.tistory.com/)에 기록 중 |
 | 📬 연락 | jeongwook@gmail.com |
 
 ---
@@ -77,19 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeongUk00&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUk00&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeongUk00&theme=minimal&hide_border=true&area=true" width="95%" />
-</div>
-
----
-
 ## 💻 Projects (KT 에이블스쿨 9기)
 
 | # | 프로젝트명 | 핵심 기술 | 나의 역할 | 성과 | 링크 |
@@ -102,8 +88,9 @@
 
 ## 🏆 Certifications & Education
 
-- 📜 **정보처리기사** — 실기 합격 대기 중 (필기 합격)
-- 📊 **데이터 분석 준전문가 (ADsP)** — 취득 완료
+- 📜 **정보처리기사**
+- 📜 **데이터 분석 준전문가 (ADsP)**
+- 📜 **SQLD**
 - 🎓 **KT 에이블스쿨 9기 AI 트랙** — 2026.04 ~ 진행 중
 - 🏫 **홍익대학교 산업데이터공학과** — 졸업
 
@@ -111,7 +98,7 @@
 
 ## ✍️ Recent Blog Posts
 
-> 📌 학습 과정과 트러블슈팅을 꾸준히 기록하고 있습니다. → [jwkim0826.tistory.com](https://jwkim0826.tistory.com/)
+> 📌 학습 과정을 기록하고 있습니다. → [jwkim0826.tistory.com](https://jwkim0826.tistory.com/)
 
 <!-- 블로그 포스팅이 쌓이면 아래에 직접 링크 추가 -->
 <!-- - [포스팅 제목](링크) -->
