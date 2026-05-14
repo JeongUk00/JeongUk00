@@ -9,7 +9,7 @@
 * **연락처:** jeongwook@gmail.com | 010-3375-3600
 * **학력:** 홍익대학교 산업데이터공학과 졸업
 * **활동:** KT 에이블스쿨 9기 AI 트랙 교육생
-* **채널:** [Tistory 블로그]([https://jwkim0826.tistory.com/]) | [GitHub]([https://github.com/JeongUk00])
+* **채널:** [Tistory 블로그](https://jwkim0826.tistory.com/) | [GitHub](https://github.com/JeongUk00)
 
 ---
 
