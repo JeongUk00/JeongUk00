@@ -1,51 +1,80 @@
-# 🚀 김정욱 | Data Analyst & AI Engineer
+<div align="center">
 
-> **"데이터에서 인사이트를 추출하고, LangChain 기반의 지능형 에이전트로 문제를 해결합니다."**
+# 👋 안녕하세요, 김정욱입니다
 
----
+### Data Analyst & AI Engineer
 
-### 👤 Profile
-* **이름:** 김정욱 (JeongUk Kim)
-* **연락처:** jeongwook@gmail.com | 010-3375-3600
-* **학력:** 홍익대학교 산업데이터공학과 졸업
-* **활동:** KT 에이블스쿨 9기 AI 트랙 교육생
-* **채널:** [Tistory 블로그(기술 블로그)](https://jwkim0826.tistory.com/) | [GitHub](https://github.com/JeongUk00)
+> *"데이터에서 인사이트를 추출하고, LangChain 기반의 지능형 에이전트로 문제를 해결합니다."*
 
----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongUk00&count_bg=%230969DA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Tistory](https://img.shields.io/badge/Tech%20Blog-Tistory-orange?style=flat-square&logo=tistory)](https://jwkim0826.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-jeongwook%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeongwook@gmail.com)
 
-### 🛠️ Technical Skills
-* **Data Analysis:** Python, SQL, Pandas, Scikit-learn, Tableau
-* **AI Development:** LangChain, OpenAI API, RAG, Deep Learning (TensorFlow/PyTorch)
-* **Tools:** Git, GitHub, MySQL, Docker
+</div>
 
 ---
 
-### 💻 Key Projects (KT AIVLE School)
+## 👤 About Me
 
-#### 1. 항공기 고객 만족도 예측 및 인사이트 도출 ✈️
-* **성격:** 1차 미니프로젝트 (데이터 분석 및 ML/DL 모델링)
-* **기간:** 2026.04
-* **주요 역할:** 데이터 전처리, EDA, 머신러닝/딥러닝 모델 성능 최적화
-* **핵심 내용:** * 항공기 탑승 고객 데이터를 활용해 만족도에 영향을 미치는 핵심 변수 식별
-    * Random Forest, XGBoost, DNN 등 다양한 모델 비교를 통해 정확도 92% 달성
-* **성과:** '기내 와이파이 서비스'가 만족도의 핵심 지표임을 도출하여 실질적인 서비스 개선 인사이트 제안
-
-#### 2. LangChain 기반 AI 강사 Agent 개발 🎓
-* **성격:** 2차 미니프로젝트 (LLM 및 에이전트 구현)
-* **기술:** Python, LangChain, RAG, OpenAI API
-* **핵심 내용:** * PDF 교안 데이터를 기반으로 학습자의 질문에 정확하게 답변하는 RAG 시스템 구축
-    * Prompt Engineering을 통해 개인 맞춤형 학습 피드백 및 가이드 기능 구현
-* **성과:** 검색 최적화를 통해 답변의 할루시네이션(환각) 현상을 기존 대비 20% 감소시킴
-
-#### 3. 상품 리뷰 분석 및 요약 Agent 개발 🛍️
-* **성격:** 3차 미니프로젝트 (지능형 에이전트 서비스)
-* **기술:** LangChain, BeautifulSoup, Sentiment Analysis
-* **핵심 내용:** * 쇼핑몰 리뷰 데이터를 실시간 크롤링하여 긍정/부정 감성 분석 수행
-    * Summarization Chain을 활용해 방대한 양의 리뷰를 핵심 위주로 자동 요약
-* **성과:** 사용자 테스트 결과, 리뷰 분석 및 읽기 시간을 약 70% 단축하는 효율성 검증
+- 🎓 **홍익대학교** 산업데이터공학과 졸업
+- 📡 **KT 에이블스쿨 9기** AI 트랙 교육생
+- 🔍 데이터 분석부터 LLM 기반 서비스 개발까지 관심
+- ✍️ 학습 내용 & 트러블슈팅을 [기술 블로그](https://jwkim0826.tistory.com/)에 꾸준히 기록 중
 
 ---
 
-### 🏆 Others
-* **자격사항:** 정보처리기사 (실기 합격 대기 중), 데이터 분석 준전문가(ADsP)
-* **블로그:** 학습한 AI 기술 및 트러블슈팅 과정을 티스토리에 꾸준히 기록 중
+## 🛠️ Tech Stack
+
+**Data Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeongUk00&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUk00&layout=compact&theme=default&hide_border=true" />
+</div>
+
+---
+
+## 💻 Projects
+
+| # | 프로젝트 | 핵심 기술 | 성과 | 링크 |
+|---|---------|----------|------|------|
+| 1 | ✈️ **항공기 고객 만족도 예측** | Python, XGBoost, DNN | 정확도 92% 달성 | [→ repo](https://github.com/JeongUk00/airline-satisfaction) |
+| 2 | 🎓 **LangChain 기반 AI 강사 Agent** | LangChain, RAG, OpenAI API | 할루시네이션 20% 감소 | [→ repo](https://github.com/JeongUk00/ai-tutor-agent) |
+| 3 | 🛍️ **상품 리뷰 분석 Agent** | LangChain, BeautifulSoup | 리뷰 분석 시간 70% 단축 | [→ repo](https://github.com/JeongUk00/review-analysis-agent) |
+
+---
+
+## 🏆 Certifications
+
+- 📜 **정보처리기사** — 실기 합격 대기 중
+- 📊 **데이터 분석 준전문가 (ADsP)**
+
+---
+
+<div align="center">
+  <sub>📬 협업 및 문의: <a href="mailto:jeongwook@gmail.com">jeongwook@gmail.com</a></sub>
+</div>
