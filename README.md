@@ -7,7 +7,7 @@
 ### 👤 Profile
 * **이름:** 김정욱 (Jungwook Kim)
 * **연락처:** jungwook@email.com | 010-1234-5678
-* **학력:** 홍익대학교 산업데이터공학과 (4학년 재학 중)
+* **학력:** 홍익대학교 산업데이터공학과 졸업
 * **활동:** KT 에이블스쿨 9기 AI 트랙 교육생
 * **채널:** [Tistory 블로그](https://ujkim-game.tistory.com/) | [GitHub](https://github.com/michaelkimm)
 
