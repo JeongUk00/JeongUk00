@@ -3,7 +3,6 @@
 <img src="https://github.com/user-attachments/assets/de0f2004-304e-4cca-8950-eedfea8b5e90" width="180"/>
 
 ## 👤 About Me
----
 
 - 학력 | 홍익대학교 산업데이터공학과 졸업
 - 자격 및 활동 | 정보처리기사 · ADsP (데이터 분석 준전문가) · SQLD · KT Aivle School AI Track
