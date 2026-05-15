@@ -60,8 +60,6 @@
 
 ## 🗂️ Projects
 
----
-
 ### ✈️ 항공기 고객 만족도 예측
 > `Python` `XGBoost` `DNN` `EDA`
 
