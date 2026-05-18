@@ -152,6 +152,4 @@ HITL 노드를 설계하면서는 AI가 판단하기 애매한 케이스를 억�
 
 *"데이터에서 인사이트를, 그리고 그 인사이트가 실제로 쓰이도록."*
 
----
-
-![Programmers Badge](https://raw.githubusercontent.com/{자기신 깃허브 아이디}/Programmers_Badge_Generator/main/result/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/JeongUk00/Programmers_Badge_Generator/main/result/result.svg)
