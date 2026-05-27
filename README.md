@@ -86,7 +86,7 @@ Class Weight와 Oversampling을 비교 실험하면서 문제 상황에 맞는 �
 
 </details>
 
-[📁 repo](링크)
+[📁 repo](https://github.com/JeongUk00/airline-customer-satisfaction-prediction.git)
 
 ---
 
