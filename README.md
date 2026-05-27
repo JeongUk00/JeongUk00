@@ -146,7 +146,7 @@ HITL 노드를 설계하면서는 AI가 판단하기 애매한 케이스를 억�
 
 </details>
 
-[📁 repo](링크)
+[📁 repo](https://github.com/JeongUk00/Product-Review-Analyzer.git)
 
 ---
 
