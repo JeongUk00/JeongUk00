@@ -116,7 +116,7 @@ LangGraph로 노드를 직접 설계하면서 Agent가 단순히 LLM을 감싸�
 
 </details>
 
-[📁 repo](링크)
+[📁 repo](https://github.com/JeongUk00/AI-Instructor-Agent.git)
 
 ---
 
