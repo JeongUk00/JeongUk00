@@ -81,7 +81,7 @@
 
 > AI를 활용해 도서 표지를 생성하고, 도서 정보를 CRUD로 관리하는 React 기반 도서 관리 서비스
 
-[Repository](https://github.com/JeongUk00/book-management-frontend) · `React 19` `Vite` `react-router-dom` `json-server` `OpenAI API` `GPT Image 2`
+[Repository](https://github.com/JeongUk00/book-management-fronted) · `React 19` `Vite` `react-router-dom` `json-server` `OpenAI API` `GPT Image 2`
 
 | 항목 | 내용 |
 |:---|:---|
