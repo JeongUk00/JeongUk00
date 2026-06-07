@@ -1,4 +1,4 @@
-# 김정욱 | JeongUk Kim
+# 김먀먀 | JeongUk Kim
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/de0f2004-304e-4cca-8950-eedfea8b5e90" width="160" alt="JeongUk Kim profile" />
